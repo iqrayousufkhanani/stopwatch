@@ -1,0 +1,12 @@
+.imgs{
+display: none;
+}
+.btn{
+color: white;
+font-size: 20px;
+background-color: black;
+margin-left: 200px;
+margin-top: 10px;
+padding: 10px;
+border-radius: 5px;
+}
